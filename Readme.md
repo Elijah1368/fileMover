@@ -1,4 +1,4 @@
-# Automatically move a file to desktop when downloaded
+# Automatically move a downloaded file to desktop
 
 
 ## Installation
